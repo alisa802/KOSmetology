@@ -1,0 +1,23 @@
+=== Service Information ===
+Service: Skincare Service
+Duration: 60 min
+Rate: 1.5 EUR/min
+Acidity Level: 20.0
+Type: тт
+Estimated Cost: 90.0 EUR
+----------------------------
+=== Service Information ===
+Service: пп
+Duration: 30 min
+Rate: 1.0 EUR/min
+Acidity Level: 5.5
+Type: пппп
+Estimated Cost: 30.0 EUR
+----------------------------
+=== Service Information ===
+Service: aminoskabe
+Duration: 30 min
+Rate: 1.0 EUR/min
+Skin Type: dry
+Estimated Cost: 30.0 EUR
+----------------------------
